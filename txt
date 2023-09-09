@@ -1,0 +1,13 @@
+Se requiere una funcionalidad para el sistema de préstamos de cliclas de la ciudad, el sistema debe:
+
+1. Registrar los usuarios, debe permitir agregarlos a una base de datos (lista).
+
+2. El usuario con el número de tarjeta podrá tomar una cicla.
+
+3. El usuario debe poder tomar la cicla indicando el origen y el destino de la misma.
+
+4. Se podrá consultar el listado de usuarios.
+
+5  Se podrá consultar el listado de prestamos.
+
+Usando los conocimientos en Python adquiridos, cree una funcionalidad que permita guardar esta información y consultarla. en una aplicación.
